@@ -1,0 +1,295 @@
+{
+  "logs": {
+    "3789": {
+      "event": "Entry",
+      "peopleCount": 1,
+      "timestamp": 3789
+    },
+    "5388": {
+      "event": "Entry",
+      "peopleCount": 2,
+      "timestamp": 5388
+    },
+    "7246": {
+      "event": "Entry",
+      "peopleCount": 3,
+      "timestamp": 7246
+    },
+    "42021": {
+      "event": "Exit",
+      "peopleCount": 2,
+      "timestamp": 42021
+    },
+    "44658": {
+      "event": "Entry",
+      "peopleCount": 3,
+      "timestamp": 44658
+    },
+    "105070": {
+      "event": "Entry",
+      "peopleCount": 4,
+      "timestamp": 105070
+    },
+    "146768": {
+      "event": "Entry",
+      "peopleCount": 5,
+      "timestamp": 146768
+    },
+    "148848": {
+      "event": "Entry",
+      "peopleCount": 6,
+      "timestamp": 148848
+    },
+    "152891": {
+      "event": "Entry",
+      "peopleCount": 7,
+      "timestamp": 152891
+    },
+    "154372": {
+      "event": "Entry",
+      "peopleCount": 8,
+      "timestamp": 154372
+    },
+    "159112": {
+      "event": "Entry",
+      "peopleCount": 9,
+      "timestamp": 159112
+    },
+    "166411": {
+      "event": "Exit",
+      "peopleCount": 8,
+      "timestamp": 166411
+    },
+    "175932": {
+      "event": "Exit",
+      "peopleCount": 7,
+      "timestamp": 175932
+    },
+    "177288": {
+      "event": "Exit",
+      "peopleCount": 6,
+      "timestamp": 177288
+    },
+    "178928": {
+      "event": "Exit",
+      "peopleCount": 5,
+      "timestamp": 178928
+    },
+    "180465": {
+      "event": "Entry",
+      "peopleCount": 6,
+      "timestamp": 180465
+    },
+    "181791": {
+      "event": "Exit",
+      "peopleCount": 5,
+      "timestamp": 181791
+    },
+    "183644": {
+      "event": "Entry",
+      "peopleCount": 6,
+      "timestamp": 183644
+    },
+    "185083": {
+      "event": "Entry",
+      "peopleCount": 7,
+      "timestamp": 185083
+    },
+    "186502": {
+      "event": "Exit",
+      "peopleCount": 6,
+      "timestamp": 186502
+    },
+    "187829": {
+      "event": "Exit",
+      "peopleCount": 5,
+      "timestamp": 187829
+    },
+    "189182": {
+      "event": "Entry",
+      "peopleCount": 6,
+      "timestamp": 189182
+    },
+    "190602": {
+      "event": "Entry",
+      "peopleCount": 7,
+      "timestamp": 190602
+    },
+    "192031": {
+      "event": "Exit",
+      "peopleCount": 6,
+      "timestamp": 192031
+    },
+    "193467": {
+      "event": "Exit",
+      "peopleCount": 5,
+      "timestamp": 193467
+    },
+    "195103": {
+      "event": "Exit",
+      "peopleCount": 4,
+      "timestamp": 195103
+    },
+    "196443": {
+      "event": "Entry",
+      "peopleCount": 5,
+      "timestamp": 196443
+    },
+    "197981": {
+      "event": "Entry",
+      "peopleCount": 6,
+      "timestamp": 197981
+    },
+    "199406": {
+      "event": "Exit",
+      "peopleCount": 5,
+      "timestamp": 199406
+    },
+    "200841": {
+      "event": "Entry",
+      "peopleCount": 6,
+      "timestamp": 200841
+    },
+    "202281": {
+      "event": "Entry",
+      "peopleCount": 7,
+      "timestamp": 202281
+    },
+    "203601": {
+      "event": "Entry",
+      "peopleCount": 8,
+      "timestamp": 203601
+    },
+    "204841": {
+      "event": "Entry",
+      "peopleCount": 9,
+      "timestamp": 204841
+    },
+    "206060": {
+      "event": "Exit",
+      "peopleCount": 8,
+      "timestamp": 206060
+    },
+    "207801": {
+      "event": "Exit",
+      "peopleCount": 7,
+      "timestamp": 207801
+    },
+    "209358": {
+      "event": "Entry",
+      "peopleCount": 8,
+      "timestamp": 209358
+    },
+    "210577": {
+      "event": "Entry",
+      "peopleCount": 9,
+      "timestamp": 210577
+    },
+    "211898": {
+      "event": "Exit",
+      "peopleCount": 8,
+      "timestamp": 211898
+    },
+    "213536": {
+      "event": "Exit",
+      "peopleCount": 7,
+      "timestamp": 213536
+    },
+    "214859": {
+      "event": "Exit",
+      "peopleCount": 6,
+      "timestamp": 214859
+    },
+    "216094": {
+      "event": "Entry",
+      "peopleCount": 7,
+      "timestamp": 216094
+    },
+    "217432": {
+      "event": "Entry",
+      "peopleCount": 8,
+      "timestamp": 217432
+    },
+    "218771": {
+      "event": "Entry",
+      "peopleCount": 9,
+      "timestamp": 218771
+    },
+    "220090": {
+      "event": "Exit",
+      "peopleCount": 8,
+      "timestamp": 220090
+    },
+    "221529": {
+      "event": "Entry",
+      "peopleCount": 9,
+      "timestamp": 221529
+    },
+    "222968": {
+      "event": "Entry",
+      "peopleCount": 10,
+      "timestamp": 222968
+    },
+    "224804": {
+      "event": "Entry",
+      "peopleCount": 11,
+      "timestamp": 224804
+    },
+    "226242": {
+      "event": "Exit",
+      "peopleCount": 10,
+      "timestamp": 226242
+    },
+    "227667": {
+      "event": "Exit",
+      "peopleCount": 9,
+      "timestamp": 227667
+    },
+    "229101": {
+      "event": "Exit",
+      "peopleCount": 8,
+      "timestamp": 229101
+    },
+    "230413": {
+      "event": "Exit",
+      "peopleCount": 7,
+      "timestamp": 230413
+    },
+    "231765": {
+      "event": "Exit",
+      "peopleCount": 6,
+      "timestamp": 231765
+    },
+    "233402": {
+      "event": "Exit",
+      "peopleCount": 5,
+      "timestamp": 233402
+    },
+    "234842": {
+      "event": "Exit",
+      "peopleCount": 4,
+      "timestamp": 234842
+    },
+    "236269": {
+      "event": "Exit",
+      "peopleCount": 3,
+      "timestamp": 236269
+    },
+    "237600": {
+      "event": "Exit",
+      "peopleCount": 2,
+      "timestamp": 237600
+    },
+    "239019": {
+      "event": "Exit",
+      "peopleCount": 1,
+      "timestamp": 239019
+    },
+    "240365": {
+      "event": "Exit",
+      "peopleCount": 0,
+      "timestamp": 240365
+    }
+  },
+  "peopleCount": 0
+}

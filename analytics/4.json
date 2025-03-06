@@ -1,0 +1,75 @@
+{
+  "logs": {
+    "1741277439494": {
+      "event": "Entry",
+      "peopleCount": 5,
+      "timestamp": 1741277439494
+    },
+    "1741277441772": {
+      "event": "Exit",
+      "peopleCount": 4,
+      "timestamp": 1741277441772
+    },
+    "1741277445054": {
+      "event": "Entry",
+      "peopleCount": 5,
+      "timestamp": 1741277445054
+    },
+    "1741277446378": {
+      "event": "Exit",
+      "peopleCount": 4,
+      "timestamp": 1741277446378
+    },
+    "1741277451052": {
+      "event": "Exit",
+      "peopleCount": 3,
+      "timestamp": 1741277451052
+    },
+    "1741277453259": {
+      "event": "Exit",
+      "peopleCount": 2,
+      "timestamp": 1741277453259
+    },
+    "1741277458479": {
+      "event": "Exit",
+      "peopleCount": 1,
+      "timestamp": 1741277458479
+    },
+    "1741277459700": {
+      "event": "Exit",
+      "peopleCount": 0,
+      "timestamp": 1741277459700
+    },
+    "1741277463917": {
+      "event": "Entry",
+      "peopleCount": 1,
+      "timestamp": 1741277463917
+    },
+    "1741277466425": {
+      "event": "Exit",
+      "peopleCount": 0,
+      "timestamp": 1741277466425
+    },
+    "1741277471939": {
+      "event": "Entry",
+      "peopleCount": 1,
+      "timestamp": 1741277471939
+    },
+    "1741277473338": {
+      "event": "Exit",
+      "peopleCount": 0,
+      "timestamp": 1741277473338
+    },
+    "1741277476660": {
+      "event": "Entry",
+      "peopleCount": 1,
+      "timestamp": 1741277476660
+    },
+    "1741277481937": {
+      "event": "Exit",
+      "peopleCount": 0,
+      "timestamp": 1741277481937
+    }
+  },
+  "peopleCount": 0
+}
