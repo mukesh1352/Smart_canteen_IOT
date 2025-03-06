@@ -1,4 +1,4 @@
-```
+
 #include <WiFi.h>
 #include <FirebaseESP32.h>
 
@@ -75,11 +75,11 @@ void loop() {
     if (pir1_triggered && pir2_triggered) {
         if (timestamp1 < timestamp2) {
             peopleCount++;  // Person entered
-            Serial.println("Person Entered! ✅");
+            Serial.println("Person Entered! ");
         } else {
             if (peopleCount > 0){
               peopleCount--;  // Person exited
-              Serial.println("Person Exited! ❌");
+              Serial.println("Person Exited! ");
             }
         }
 
@@ -103,5 +103,3 @@ void loop() {
     }
 }
 
-
-```
